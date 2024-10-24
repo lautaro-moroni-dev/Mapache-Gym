@@ -3,7 +3,7 @@
 
 <p style="color:rgb(205, 155, 0);">MapacheGym, built with Spring Boot (3.1.2), JDK17, and Maven.
 
-<img src="project_1.png" alt="Logo" style="width:600px;height:400px;"></img>
+<img src="project_1.png" alt="Logo" style="width:400px;height:400px;"></img>
 </div>
 
 ### Instalación
